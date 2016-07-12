@@ -1,7 +1,7 @@
 head-filter-urls
 ===================
 
-Passes back the  good URLs in the list, where good means:
+Passes back the good URLs in the list, where good means:
 - The responds with status code 200 and
 - The response fulfills the optional user criteria.
 
